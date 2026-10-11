@@ -1,14 +1,14 @@
-# QuietScan information pages
+# ScanClip information pages
 
-Official Korean and English privacy and support documents for the QuietScan iPhone app.
+Official Korean and English privacy and support documents for the ScanClip iPhone app.
 
-- Korean: https://axisj.github.io/QuietScan/
-- Privacy: https://axisj.github.io/QuietScan/privacy.html
-- Support: https://axisj.github.io/QuietScan/support.html
-- English: https://axisj.github.io/QuietScan/en/
-- English privacy: https://axisj.github.io/QuietScan/en/privacy.html
-- English support: https://axisj.github.io/QuietScan/en/support.html
-- Contact: https://github.com/axisj/QuietScan/issues
+- Korean: https://axisj.github.io/ScanClip/
+- Privacy: https://axisj.github.io/ScanClip/privacy.html
+- Support: https://axisj.github.io/ScanClip/support.html
+- English: https://axisj.github.io/ScanClip/en/
+- English privacy: https://axisj.github.io/ScanClip/en/privacy.html
+- English support: https://axisj.github.io/ScanClip/en/support.html
+- Contact: https://github.com/axisj/ScanClip/issues
 
 Hosted by GitHub Pages from `main` / root. Static HTML and CSS only; no additional analytics, advertising, external fonts, or JavaScript. The app's source code and credentials are not part of this repository.
 
