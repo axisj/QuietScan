@@ -1,0 +1,25 @@
+{
+  "name": "ScanClip: Live OCR",
+  "platform": "Android",
+  "version": "1.0.0",
+  "version_code": 1,
+  "build_type": "debug",
+  "distribution": "prerelease",
+  "application_id": "com.axisj.quietscan",
+  "minimum_android_version": "8.0",
+  "minimum_sdk": 26,
+  "target_sdk": 36,
+  "filename": "ScanClip-Android-1.0.0-test.apk",
+  "bytes": 65691259,
+  "sha256": "206aedbcffa5567581224ecacf36173e3794989526a2cea31e4d0c2d0a33111b",
+  "download_url": "https://github.com/axisj/ScanClip/releases/download/android-v1.0.0-test.1/ScanClip-Android-1.0.0-test.apk",
+  "release_url": "https://github.com/axisj/ScanClip/releases/tag/android-v1.0.0-test.1",
+  "published_date": "2026-10-15",
+  "verified_at": "2026-10-14T10:38:49.456341+00:00",
+  "verification": {
+    "device": "Android 14 ARM64 Pixel 6 emulator",
+    "core_tests_passed": 11,
+    "device_tests_passed": 16,
+    "physical_camera_quality_verified": false
+  }
+}
